@@ -1,0 +1,25 @@
+{
+  "89f9c287b3cd1964ab8777c826a3b342fd6c58ebb17aa62ad4b2a3db3c734a3e": {
+    "overall_score": 85,
+    "issues": [
+      {
+        "problem": "Missing clear section headings for experience and projects.",
+        "recommendation": "Use bold or larger font for section headings to improve clarity."
+      },
+      {
+        "problem": "Inconsistent date formats.",
+        "recommendation": "Standardize date formats throughout the resume (e.g., use 'Month Year' format consistently)."
+      },
+      {
+        "problem": "Long URLs and special characters in skills section.",
+        "recommendation": "Remove or shorten URLs and avoid special characters to enhance readability."
+      },
+      {
+        "problem": "Use of uncommon abbreviations (e.g., 'GPT-4o').",
+        "recommendation": "Spell out uncommon abbreviations on first use to ensure clarity."
+      }
+    ],
+    "summary": "The resume is well-structured with relevant experience and skills but needs clearer section headings, consistent date formatting, and improved readability by addressing long URLs and uncommon abbreviations.",
+    "cached_at": "2025-09-29T15:23:22.790557"
+  }
+}
